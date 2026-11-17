@@ -5,7 +5,7 @@ A personal robotics engineering portfolio with a dark academic layout, built wit
 Run locally from the repository root: `python3 -m http.server 8000`.
 
 - `index.html`: biography, contact details, and dated career milestones.
-- `publications/index.html`: selected publications with year navigation, and patent families.
+- `publications/index.html`: publications with year navigation, and patent families.
 - `software/index.html`: engineering work with expandable contribution details.
 - `experience/index.html`: career history and technical skills.
 - `assets/resume.pdf`: original user-supplied resume, downloadable from navigation and footer.
