@@ -3,7 +3,7 @@
  const apply = theme => {
   document.documentElement.dataset.theme = theme;
   button.setAttribute('aria-label', `Switch to ${theme === 'dark' ? 'light' : 'dark'} theme`);
-  document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#101b24' : '#f7f8fa';
+  document.querySelector('meta[name="theme-color"]').content = theme === 'dark' ? '#1c1d1b' : '#faf9f6';
  };
  try { const saved = localStorage.getItem('portfolio-theme'); if (saved === 'dark' || saved === 'light') apply(saved); } catch {}
  button.addEventListener('click', () => {
