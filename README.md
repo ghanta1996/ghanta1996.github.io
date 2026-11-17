@@ -1,18 +1,15 @@
 # Sriharsha Ghanta — Portfolio
 
-Professional robotics engineering portfolio, built with plain HTML, CSS, and JavaScript. No dependencies or build step.
+A personal robotics engineering portfolio with a dark academic layout, built with HTML, CSS, and JavaScript. No build step or dependencies.
 
-## Local development
+Run locally from the repository root: `python3 -m http.server 8000`.
 
-From the repository root, run `python3 -m http.server 8000`.
+- `index.html`: biography, contact details, and dated career milestones.
+- `publications.html`: selected publications with year navigation, and patent families.
+- `software.html`: engineering work with expandable contribution details.
+- `experience.html`: career history and technical skills.
+- `assets/resume.pdf`: original user-supplied resume, downloadable from navigation and footer.
 
-- `index.html`: professional profile, selected work, experience, patents, publications, education, and contact links.
-- `styles.css`: responsive layout and light/dark themes.
-- `script.js`: theme preference and navigation section highlighting.
-- `assets/resume.pdf`: original supplied resume, available through both download buttons.
+Career content comes from the supplied 2026 resume. No portrait is included; one can be added when supplied. Styles are in `styles.css`. `script.js` updates the year and active navigation. All content, navigation, and resume downloads work without JavaScript.
 
-Career details come from the supplied 2026 resume. Replace the PDF here when updating the resume. Download links work without JavaScript.
-
-## Deployment
-
-Compatible with GitHub Pages from the root of the main branch. Configure Pages in repository settings when ready; local changes do not publish automatically.
+Compatible with GitHub Pages from the root of main.
