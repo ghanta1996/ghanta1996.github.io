@@ -1,9 +1,9 @@
 (() => {
  document.getElementById('year').textContent = new Date().getFullYear();
- const current = location.pathname.split('/').pop() || 'index.html';
- document.querySelectorAll('nav a').forEach(link => {
+ const normalize = path => path.replace(/index\.html$/, '').replace(/\/$/, '') || '/';
+ const current = normalize(location.pathname);
+ document.querySelectorAll('#topnav nav a').forEach(link => {
   if (link.hasAttribute('download')) return;
-  const target = new URL(link.href).pathname.split('/').pop() || 'index.html';
-  if (target === current) link.setAttribute('aria-current', 'page');
+  if (normalize(new URL(link.href).pathname) === current) link.setAttribute('aria-current', 'page');
  });
 })();
