@@ -26,35 +26,21 @@
 
 (() => {
  const reduced = window.matchMedia('(prefers-reduced-motion: reduce)');
- document.querySelectorAll('.robot-demo').forEach(demo => {
-  const toggle = demo.querySelector('.demo-toggle');
-  const status = demo.querySelector('.demo-status');
-  const noun = demo.dataset.demo === 'coverage' ? 'path' : 'scan';
-  let userPaused = false;
-  const setRunning = running => {
-   demo.classList.toggle('is-running', running);
-   toggle.setAttribute('aria-pressed', String(running));
-   toggle.textContent = `${running ? 'Pause' : 'Play'} ${noun}`;
-   status.textContent = running ? 'Running' : 'Paused';
-  };
-  toggle.addEventListener('click', () => {
-   const running = !demo.classList.contains('is-running');
-   userPaused = !running;
-   setRunning(running);
-  });
-  demo.querySelector('.demo-reset')?.addEventListener('click', () => {
-   setRunning(false);
-   userPaused = true;
-   demo.classList.remove('has-animation');
-   void demo.offsetWidth;
-   demo.classList.add('has-animation');
-  });
-  demo.classList.add('has-animation');
+ const diagrams = [...document.querySelectorAll('.robot-demo')];
+ const sync = demo => {
+  const visible = demo.dataset.visible === 'true' && !document.hidden;
+  demo.classList.toggle('has-animation', !reduced.matches);
+  demo.classList.toggle('is-running', visible && !reduced.matches);
+ };
+ diagrams.forEach(demo => {
   if ('IntersectionObserver' in window) {
    new IntersectionObserver(entries => {
-    setRunning(entries[0].isIntersecting && !reduced.matches && !userPaused);
-   }).observe(demo);
+    demo.dataset.visible = String(entries[0].isIntersecting);
+    sync(demo);
+   }, { threshold: .15 }).observe(demo);
   }
-  reduced.addEventListener('change', () => { if (reduced.matches) setRunning(false); });
+  sync(demo);
  });
+ reduced.addEventListener('change', () => diagrams.forEach(sync));
+ document.addEventListener('visibilitychange', () => diagrams.forEach(sync));
 })();

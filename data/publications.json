@@ -1,0 +1,243 @@
+{
+  "profile": "https://scholar.google.com/citations?user=cGXteiUAAAAJ&hl=en",
+  "orcid": "https://orcid.org/0000-0001-5063-0025",
+  "checked_on": "2026-11-18",
+  "records": [
+    {
+      "title": "An Optimal Footprint Based Coverage Planning for Hydro Blasting Robots",
+      "year": 2021,
+      "authors": [
+        "Thejus Pathmakumar",
+        "Madan Mohan Rayguru",
+        "Sriharsha Ghanta",
+        "Manivannan Kalimuthu",
+        "Mohan Rajesh Elara"
+      ],
+      "venue": "Sensors",
+      "volume": "21",
+      "issue": "4",
+      "pages": "1194",
+      "doi": "10.3390/s21041194",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:Tyk-4Ss8FVUC",
+      "metadata_source": "https://api.crossref.org/works/10.3390/s21041194"
+    },
+    {
+      "title": "Performance enhancement for the ship-hull maintenance robot",
+      "year": 2021,
+      "authors": [
+        "Sriharsha Ghanta"
+      ],
+      "venue": "Singapore University of Technology and Design",
+      "type": "Master’s thesis",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:eQOLeE2rZwMC",
+      "metadata_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:eQOLeE2rZwMC"
+    },
+    {
+      "title": "Uniform hydro blasting for ship hull maintenance: A multi-objective optimization framework",
+      "year": 2021,
+      "authors": [
+        "Sriharsha Ghanta",
+        "Madan Mohan Rayguru",
+        "Thejus Pathmakumar",
+        "Manivannan Kalimuthu",
+        "Mohan Rajesh Elara",
+        "Bing J. Sheu"
+      ],
+      "venue": "Ocean Engineering",
+      "volume": "242",
+      "issue": null,
+      "pages": "109977",
+      "doi": "10.1016/j.oceaneng.2021.109977",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:W7OEmFMy1HYC",
+      "metadata_source": "https://api.crossref.org/works/10.1016/j.oceaneng.2021.109977"
+    },
+    {
+      "title": "Amaran: An Unmanned Robotic Coconut Tree Climber and Harvester",
+      "year": 2020,
+      "authors": [
+        "Rajesh Kannan Megalingam",
+        "Sakthiprasad Kuttankulangara Manoharan",
+        "Sreekanth M. Mohan",
+        "Shree Rajesh Raagul Vadivel",
+        "Rajesh Gangireddy",
+        "Sriharsha Ghanta",
+        "Saikumar Kotte",
+        "Surya Teja Perugupally",
+        "Vinu Sivanantham"
+      ],
+      "venue": "IEEE/ASME Transactions on Mechatronics",
+      "volume": "26",
+      "issue": "1",
+      "pages": "288–299",
+      "doi": "10.1109/tmech.2020.3014293",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:IjCSPb-OGe4C",
+      "metadata_source": "https://api.crossref.org/works/10.1109/tmech.2020.3014293"
+    },
+    {
+      "title": "Multi-Sensor Orientation Tracking for a Façade-Cleaning Robot",
+      "year": 2020,
+      "authors": [
+        "Manuel Vega-Heredia",
+        "Ilyas Muhammad",
+        "Sriharsha Ghanta",
+        "Vengadesh Ayyalusami",
+        "Siti Aisyah",
+        "Mohan Rajesh Elara"
+      ],
+      "venue": "Sensors",
+      "volume": "20",
+      "issue": "5",
+      "pages": "1483",
+      "doi": "10.3390/s20051483",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:UeHWp8X0CEIC",
+      "metadata_source": "https://api.crossref.org/works/10.3390/s20051483"
+    },
+    {
+      "title": "Design and modelling of a modular window cleaning robot",
+      "year": 2019,
+      "authors": [
+        "M. Vega-Heredia",
+        "R. Elara Mohan",
+        "Tan Yeh Wen",
+        "J. Siti 'Aisyah",
+        "A. Vengadesh",
+        "S. Ghanta",
+        "S. Vinu"
+      ],
+      "venue": "Automation in Construction",
+      "volume": "103",
+      "issue": null,
+      "pages": "268-278",
+      "doi": "10.1016/j.autcon.2019.01.025",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:qjMakFHDy7sC",
+      "metadata_source": "https://api.crossref.org/works/10.1016/j.autcon.2019.01.025"
+    },
+    {
+      "title": "Design of an Adhesion-Aware Façade Cleaning Robot",
+      "year": 2019,
+      "authors": [
+        "M. A. Viraj J. Muthugala",
+        "M. Vega-Heredia",
+        "A. Vengadesh",
+        "G. Sriharsha",
+        "Mohan Rajesh Elara"
+      ],
+      "venue": "2019 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)",
+      "volume": null,
+      "issue": null,
+      "pages": "1441-1447",
+      "doi": "10.1109/iros40897.2019.8967978",
+      "type": "Conference paper",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:zYLM7Y9cAGgC",
+      "metadata_source": "https://api.crossref.org/works/10.1109/iros40897.2019.8967978"
+    },
+    {
+      "title": "Modeling and Analysis of hHoneycomb—A Polyhex Inspired Reconfigurable Tiling Robot",
+      "year": 2019,
+      "authors": [
+        "Rizuwana Parween",
+        "Yuyao Shi",
+        "Karthikeyan Parasuraman",
+        "Ayyalusami Vengadesh",
+        "Vinu Sivanantham",
+        "Sriharsha Ghanta",
+        "Rajesh Elara Mohan"
+      ],
+      "venue": "Energies",
+      "volume": "12",
+      "issue": "13",
+      "pages": "2517",
+      "doi": "10.3390/en12132517",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:2osOgNQ5qMEC",
+      "metadata_source": "https://api.crossref.org/works/10.3390/en12132517"
+    },
+    {
+      "title": "Design and development of inverse kinematic based 6 DOF robotic arm using ROS",
+      "year": 2018,
+      "authors": [
+        "R. K. Megalingam",
+        "V. Sivanantham",
+        "K. S. Kumar",
+        "S. Ghanta",
+        "P. S. Teja",
+        "et al."
+      ],
+      "venue": "International Journal of Pure and Applied Mathematics",
+      "volume": "118",
+      "pages": "2597–2603",
+      "type": "Journal article",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:YsMSGLbcyi4C",
+      "metadata_source": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:YsMSGLbcyi4C"
+    },
+    {
+      "title": "Integration of Haptics in Agricultural Robotics",
+      "year": 2017,
+      "authors": [
+        "Rajesh Kannan Megalingam",
+        "M M Sreekanth",
+        "Vinu Sivanantham",
+        "K Sai Kumar",
+        "Sriharsha Ghanta",
+        "P Surya Teja",
+        "Rajesh G Reddy"
+      ],
+      "venue": "IOP Conference Series: Materials Science and Engineering",
+      "volume": "225",
+      "issue": null,
+      "pages": "012203",
+      "doi": "10.1088/1757-899x/225/1/012203",
+      "type": "Conference paper",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:d1gkVwhDpl0C",
+      "metadata_source": "https://api.crossref.org/works/10.1088/1757-899x/225/1/012203"
+    },
+    {
+      "title": "Monocular distance estimation using pinhole camera approximation to avoid vehicle crash and back-over accidents",
+      "year": 2016,
+      "authors": [
+        "Rajesh Kannan Megalingam",
+        "Vignesh Shriram",
+        "Bommu Likhith",
+        "Gangireddy Rajesh",
+        "Sriharsha Ghanta"
+      ],
+      "venue": "2016 10th International Conference on Intelligent Systems and Control (ISCO)",
+      "volume": null,
+      "issue": null,
+      "pages": "1-5",
+      "doi": "10.1109/isco.2016.7727017",
+      "type": "Conference paper",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:u-x6o8ySG0sC",
+      "metadata_source": "https://api.crossref.org/works/10.1109/isco.2016.7727017"
+    },
+    {
+      "title": "Study and development of Android controlled wireless pole climbing robot",
+      "year": 2015,
+      "authors": [
+        "Rajesh Kannan Megalingam",
+        "S Venkatraj Reddy",
+        "G. Sriharsha",
+        "P. Surya Teja",
+        "K. Sai Kumar",
+        "Parvathy Gopal"
+      ],
+      "venue": "2015 IEEE International WIE Conference on Electrical and Computer Engineering (WIECON-ECE)",
+      "volume": null,
+      "issue": null,
+      "pages": "439-442",
+      "doi": "10.1109/wiecon-ece.2015.7443962",
+      "type": "Conference paper",
+      "scholar_url": "https://scholar.google.com/citations?view_op=view_citation&hl=en&oe=ASCII&user=cGXteiUAAAAJ&pagesize=100&citation_for_view=cGXteiUAAAAJ:u5HHmVD_uO8C",
+      "metadata_source": "https://api.crossref.org/works/10.1109/wiecon-ece.2015.7443962"
+    }
+  ],
+  "excluded_profile_entry": {
+    "title": "and Applications.......................... MA Sharbafi, MJ Yazdanpanah, MN Ahmadabadi, and A. Seyfarth 335 Robust Concurrent Design of a 2-DOF Collaborative Robot (Cobot�…",
+    "reason": "Malformed table-of-contents import; not an identifiable authored publication."
+  }
+}
